@@ -257,6 +257,9 @@ DEPENDENCIES
   github-pages
   jekyll
   jekyll-github-metadata
+  jekyll-paginate
+  jekyll-seo-tag
+  jekyll-sitemap
 
 BUNDLED WITH
    2.1.4

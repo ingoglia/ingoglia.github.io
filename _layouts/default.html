@@ -33,7 +33,7 @@
   {% include landing-page.html %}
   <div class="layout">
     {%if site.show_aboutme_card %}
-      <section class="card neumorphism-card-big">
+      <section class="card neumorphism-card-big" id="about-me-link">
         {% include section-aboutme.html %}
       </section>
     {% endif %}
@@ -48,7 +48,7 @@
       </section>
     {% endif %}
     {%if site.show_projects_card %}
-      <section class="card neumorphism-card-big">
+      <section class="card neumorphism-card-big" id="projects-link">
         {% include section-projects.html %}
       </section>
     {% endif %}
