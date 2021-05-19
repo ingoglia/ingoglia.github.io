@@ -249,7 +249,6 @@ a {
 .landing-links {
   display: flex;
   justify-content: center;
-  margin: 0.5rem;
 }
 
 .landing-icons {
@@ -397,7 +396,7 @@ a {
     transition: opacity 0.5s;
   }
 
-  div[skill-type="language"] {
+  div[skill-type="security"] {
     color: #e84a5f;
   }
 
@@ -738,17 +737,17 @@ a {
       @include neumorphism-button-pressed();
     }
 
-    input[id="language"]:checked ~ div[skill-type="framework"],
-    input[id="language"]:checked ~ div[skill-type="tool"] {
+    input[id="security"]:checked ~ div[skill-type="framework"],
+    input[id="security"]:checked ~ div[skill-type="tool"] {
       @include filter-out;
     }
 
-    input[id="framework"]:checked ~ div[skill-type="language"],
+    input[id="framework"]:checked ~ div[skill-type="security"],
     input[id="framework"]:checked ~ div[skill-type="tool"] {
       @include filter-out;
     }
 
-    input[id="tool"]:checked ~ div[skill-type="language"],
+    input[id="tool"]:checked ~ div[skill-type="security"],
     input[id="tool"]:checked ~ div[skill-type="framework"] {
       @include filter-out;
     }
