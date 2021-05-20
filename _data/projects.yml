@@ -13,21 +13,28 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Python Scripting
+  descr: "Improving my knowlege of Python scripting"
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: Exercism
+    - tag: Effective Python
+    - tag: Black Hat Python
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Assembly & Computer Architecture
+  descr: "Improving my knowlege of the inner workings of a computer"
   tags:
-    - tag: Python
-    - tag: Django
+    - tag: Computer Organization & Design RISC-V Edition
+    - tag: The Art of Memory Forensics
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: Bash Scripting
+  descr: "Improving my bash scripting skills"
+  tags:
+    - tag: The Linux Command Line
+    - tag: Cyber Security Ops With Bash
+
+- name: Online Presence
+  descr: "Increasing my visiblity on social media and the internet"
+  tags:
+    - tag: Twitter
+    - tag: Personal Website development
+    - tag: Blog
