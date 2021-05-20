@@ -1,0 +1,33 @@
+# > name: Name of your project
+# > descr: Description of your project
+# > demo: Link to your project
+# > tags: List of technologies you used in your projects
+#
+# Example of a project
+# - name: project X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+
+- name: Philosophy
+  descr: "Studying Philosophy"
+  tags:
+    - tag: The Metaphysics
+    - tag: Aristotle
+    - tag: Plato
+
+- name: Scam Baiting
+  descr: "Curious about scambaiting"
+  tags:
+    - tag: Kitboga
+    - tag: scammer.info
+
+- name: Physical Security
+  descr: "Learning physical penetration skills"
+  tags:
+    - tag: Lockpicking
+    - tag: The Lockpicking Lawyer

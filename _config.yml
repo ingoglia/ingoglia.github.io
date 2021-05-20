@@ -21,7 +21,6 @@ email: ingoglia@protonmail.com
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: ingoglia
-dev_username: exampleUser
 linkedin_username: dominique-i-000186142
 twitter_username: nobodyloook
 
@@ -52,7 +51,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: https://drive.google.com/file/d/1ZLFPiM1RBDOpoMmU8FvPi9pbtemTF7Sz/view?usp=sharing
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -80,7 +79,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+contact_description: Please feel free to contact me. I am currently seeking a position in cybersecuity and would love to hear from you.
 
 # GITHUB-METADATA
 # Set this to your forked repository
