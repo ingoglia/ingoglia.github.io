@@ -33,7 +33,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I am a working professional in information technology with an emphasis on security. I am in the process of transitioning into a security role. I also have many interests outside of work, such as Buddhism, Philosophy, and yoga. I enjoy meeting new people and I am looking forward to broadening my network and connecting with like-minded people.
+about_me_description: I am a working professional in information technology with an emphasis on security. I am in the process of transitioning into a security role. I also have many interests outside of work, such as Buddhism, philosophy, and yoga. I enjoy meeting new people and I am looking forward to broadening my network and connecting with like-minded people.
 
 # SKILLS SECTION
 # show_skills_card:

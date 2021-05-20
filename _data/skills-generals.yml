@@ -5,32 +5,26 @@
 # - name: Git
 #   weight: 5
 
-- name: Git
+- name: FastLearner
   weight: 5
 
-- name: Bash
+- name: Management
   weight: 3
 
-- name: Scrum
-  weight: 3
-
-- name: Travis CI
-  weight: 1
-
-- name: Jenkins
-  weight: 1
-
-- name: Chrome DevTools
+- name: TeamPlayer
   weight: 2
 
-- name: npm
+- name: Creativity
+  weight: 1
+
+- name: CriticalThinking
   weight: 2
 
-- name: gulp
+- name: InterpersonalSkills
   weight: 4
 
-- name: VS Code
+- name: SelfSufficient
   weight: 3
 
-- name: Postman
+- name: ProblemSolving
   weight: 4

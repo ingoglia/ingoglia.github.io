@@ -5,38 +5,38 @@
 # - name: Language
 #   weight: 5
 
-- name: TypeScript
+- name: NewtorkMonitoring
   weight: 5
 
-- name: JavaScript
+- name: PenetrationTesting
   weight: 4
 
 - name: Python
   weight: 2
 
-- name: HTML5
+- name: BashScripting
   weight: 4
 
-- name: CSS3
+- name: IncedentResponse
   weight: 3
 
-- name: SASS
+- name: LinuxHardening
   weight: 3
 
-- name: Java
+- name: Assembly
   weight: 1
 
-- name: Dart
+- name: PhishingIncedentResponse
   weight: 1
 
-- name: Swift
+- name: PhysicalSecurity
   weight: 1
 
-- name: Kotlin
+- name: SecurityTraining
   weight: 1
 
-- name: C++
+- name: HTML/CSS/Javascript
   weight: 2
 
-- name: Ruby
-  weight: 2
+- name: CommandLine
+  weight: 3

@@ -400,11 +400,11 @@ a {
     color: #e84a5f;
   }
 
-  div[skill-type="framework"] {
+  div[skill-type="technical"] {
     color: #ff847c;
   }
 
-  div[skill-type="tool"] {
+  div[skill-type="general"] {
     color: #fecea8;
   }
 
@@ -737,18 +737,18 @@ a {
       @include neumorphism-button-pressed();
     }
 
-    input[id="security"]:checked ~ div[skill-type="framework"],
-    input[id="security"]:checked ~ div[skill-type="tool"] {
+    input[id="security"]:checked ~ div[skill-type="technical"],
+    input[id="security"]:checked ~ div[skill-type="general"] {
       @include filter-out;
     }
 
-    input[id="framework"]:checked ~ div[skill-type="security"],
-    input[id="framework"]:checked ~ div[skill-type="tool"] {
+    input[id="technical"]:checked ~ div[skill-type="security"],
+    input[id="technical"]:checked ~ div[skill-type="general"] {
       @include filter-out;
     }
 
-    input[id="tool"]:checked ~ div[skill-type="security"],
-    input[id="tool"]:checked ~ div[skill-type="framework"] {
+    input[id="general"]:checked ~ div[skill-type="security"],
+    input[id="general"]:checked ~ div[skill-type="technical"] {
       @include filter-out;
     }
   }

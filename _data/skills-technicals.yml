@@ -5,29 +5,29 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
+- name: Unix/Linux/Windows
   weight: 5
 
-- name: AngularJS
+- name: HPCSupport
   weight: 3
 
-- name: React
+- name: DesktopSupport
   weight: 4
 
-- name: Node
+- name: Docker
   weight: 1
 
-- name: Flutter
+- name: AWS
   weight: 2
 
-- name: Express
+- name: NetworkAdministration
   weight: 3
 
 - name: Django
   weight: 1
 
-- name: Spring
+- name: WebMaster
   weight: 2
 
-- name: Rails
+- name: SystemAdministration
   weight: 4
