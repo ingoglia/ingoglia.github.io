@@ -5,13 +5,13 @@
 # - name: Framework
 #   weight: 5
 
-- name: Unix/Linux/Windows
-  weight: 5
+- name: Unix/Linux
+  weight: 4
 
 - name: HPCSupport
   weight: 3
 
-- name: DesktopSupport
+- name: Windows 
   weight: 4
 
 - name: Docker
@@ -20,7 +20,7 @@
 - name: AWS
   weight: 2
 
-- name: NetworkAdministration
+- name: Networking
   weight: 3
 
 - name: Django
@@ -29,5 +29,5 @@
 - name: WebMaster
   weight: 2
 
-- name: SystemAdministration
+- name: SystemAdmin
   weight: 4

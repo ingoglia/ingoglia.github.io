@@ -6,7 +6,7 @@
 #   weight: 5
 
 - name: FastLearner
-  weight: 5
+  weight: 4
 
 - name: Management
   weight: 3
@@ -17,11 +17,11 @@
 - name: Creativity
   weight: 1
 
+- name: InterpersonalSkills
+  weight: 3
+
 - name: CriticalThinking
   weight: 2
-
-- name: InterpersonalSkills
-  weight: 4
 
 - name: SelfSufficient
   weight: 3
