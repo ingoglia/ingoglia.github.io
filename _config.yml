@@ -115,11 +115,8 @@ google-analytics:
 plugins:
   - "jekyll-github-metadata"
   - "jekyll-seo-tag"
-  - "jekyll-paginate"
   - "jekyll-sitemap"
-
-paginate: 5
-paginate_path: /page/:num 
+  - "jekyll-paginate-v2"
 
 defaults:
   - scope:

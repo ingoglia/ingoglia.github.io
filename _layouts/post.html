@@ -1,11 +1,11 @@
 <div class="layout">
-<ul>
+<div>
   {% include header.html %}
-</ul>
+</div>
 
-<article>
+<section>
   <h2>{{ page.title }}</h2>
   <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
   {{ content }}
-</article>
+</section>
 </div>
