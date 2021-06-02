@@ -5,20 +5,20 @@ permalink: /blog/
 ---
 
 <div class="layout">
-<section class="card neumorphism-card-big" id="computers-blog" >
+<article class="card neumorphism-card-big" id="computers-blog" >
   <h1 class="title">Computers</h1>
   {% for post in site.categories.computers %}
     {% if post.url %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
   {% endfor %}
-</section>
-<section class="card neumorphism-card-big" id="philosophy-blog" >
+</article>
+<article class="card neumorphism-card-big" id="philosophy-blog" >
   <h1 class="title">Philosophy</h1>
   {% for post in site.categories.philosophy %}
     {% if post.url %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
   {% endfor %}
-</section>
+</article>
 </div>
