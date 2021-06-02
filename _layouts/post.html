@@ -1,3 +1,4 @@
+<div class="layout">
 <ul>
   {% include header.html %}
 </ul>
@@ -7,3 +8,4 @@
   <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
   {{ content }}
 </article>
+</div>
