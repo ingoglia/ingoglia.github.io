@@ -20,6 +20,9 @@
       tag-name: Exercism
       tag-url: https://exercism.io/profiles/nobodylook
     - tag:
+      tag-name: Code Combat
+      tag-url: https://codecombat.com/user/nobodyelse  
+    - tag:
       tag-name: Effective Python
       tag-url: https://effectivepython.com/ 
     - tag:
@@ -31,8 +34,10 @@
   tags:
     - tag:
       tag-name: Computer Organization & Design RISC-V Edition
+      tag-url: https://www.elsevier.com/books/computer-organization-and-design-risc-v-edition/patterson/978-0-12-820331-6    
     - tag:
       tag-name: The Art of Memory Forensics
+      tag-url: https://www.wiley.com/en-us/The+Art+of+Memory+Forensics%3A+Detecting+Malware+and+Threats+in+Windows%2C+Linux%2C+and+Mac+Memory-p-9781118825099
 
 - name: Bash Scripting
   descr: "Improving my bash scripting skills"
