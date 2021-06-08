@@ -16,25 +16,38 @@
 - name: Python Scripting
   descr: "Improving my knowlege of Python scripting"
   tags:
-    - tag: Exercism
-    - tag: Effective Python
-    - tag: Black Hat Python
+    - tag:
+      tag-name: Exercism
+      tag-url: https://exercism.io/profiles/nobodylook
+    - tag:
+      tag-name: Effective Python
+      tag-url: https://effectivepython.com/ 
+    - tag:
+      tag-name: Black Hat Python
+      tag-url: https://www.penguinrandomhouse.com/books/659396/black-hat-python-2nd-edition-by-justin-seitz-and-tim-arnold/
 
 - name: Assembly & Computer Architecture
   descr: "Improving my knowlege of the inner workings of a computer"
   tags:
-    - tag: Computer Organization & Design RISC-V Edition
-    - tag: The Art of Memory Forensics
+    - tag:
+      tag-name: Computer Organization & Design RISC-V Edition
+    - tag:
+      tag-name: The Art of Memory Forensics
 
 - name: Bash Scripting
   descr: "Improving my bash scripting skills"
   tags:
-    - tag: The Linux Command Line
-    - tag: Cyber Security Ops With Bash
+    - tag:
+      tag-name: The Linux Command Line
+    - tag:
+      tag-name: Cyber Security Ops With Bash
 
 - name: Online Presence
   descr: "Increasing my visiblity on social media and the internet"
   tags:
-    - tag: Twitter
-    - tag: Personal Website development
-    - tag: Blog
+    - tag:
+      tag-name: Twitter
+    - tag:
+      tag-name: Personal Website development
+    - tag:
+      tag-name: Blog
