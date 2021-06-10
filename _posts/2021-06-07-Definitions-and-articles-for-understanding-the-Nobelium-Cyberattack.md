@@ -5,7 +5,7 @@ published: true
 category: computers
 ---
 
-[Nobelium] (https://en.wikipedia.org/wiki/Cozy_Bear) - Also known as Cozy Bear or APT 29. These are the agressors of the recent SolarWinds attack. They are thought to be government backed Russian threat actors.
+[Nobelium](https://en.wikipedia.org/wiki/Cozy_Bear) - Also known as Cozy Bear or APT 29. These are the agressors of the recent SolarWinds attack. They are thought to be government backed Russian threat actors.
 
 [NativeZone Malware](https://www.cyclonis.com/remove-nativezonemalware/) - A Trojan Loader, using DLL hijacking.
 
