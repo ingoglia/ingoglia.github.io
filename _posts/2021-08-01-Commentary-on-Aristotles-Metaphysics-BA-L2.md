@@ -1,11 +1,14 @@
 ---
-title: Philosophy- Commentary on Aristotle's Metaphysics - Book A, lesson 1
+title: Philosophy- Commentary on Aristotle's Metaphysics - Book A, lesson 2
 layout: "post"
 published: true
 category: philosophy
 ---
-Lesson 2 - Wisdom Considers Universal First Causes and First Principles
-  He details the way in which wisdom can be measured, creating hierarchy by stating various relationships between types of knowledge. Offers metaphors and examples to prove his reasoning. He then begins to focus on identifying particular and universal knowledge and showing why universal knowledge retains higher value and purity. Puts for science as the highest knowledge, defined as a movement towards 'the good'. 
+These are my notes on the "Commentary on Aristotle's Metaphysics" by St.Thomas Aquinas. The publisher is Dumb Ox Books, and the translator is John P Rowan.
+
+Lesson 2 - Wisdom Considers Universal First Causes and First Principles 
+
+He details the way in which wisdom can be measured, creating hierarchy by stating various relationships between types of knowledge. Offers metaphors and examples to prove his reasoning. He then begins to focus on identifying particular and universal knowledge and showing why universal knowledge retains higher value and purity. Puts for science as the highest knowledge, defined as a movement towards 'the good'. 
 
   - Wisdom is knowledge of causes
   - Causes and principles in wisdom

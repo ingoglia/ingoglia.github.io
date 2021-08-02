@@ -9,8 +9,7 @@ These are my notes on the "Commentary on Aristotle's Metaphysics" by St.Thomas A
 Lesson 1 - The Dignity and Object of This Science
 
 - Defines the science of first philosophy
-  This sections begins by giving a reason why we should think about metaphysics (first philosophy). 
-Aristotle argues that wisdom is a natural desire for humans, that we respect those who have it, and we wish to obtain it for ourselves. He gives examples to back his reasoning, mostly related to our appreciation of the senses. He then details the 'hierarchy of knowing', to which he explains how animals, and then rational animals come to experience 'knowing'. Some examples are sensation, memory, imagination, prudence, teachability, experience,art and science. He then defines art, experience, and science, and details their hierarchy. 
+This sections begins by giving a reason why we should think about metaphysics (first philosophy). Aristotle argues that wisdom is a natural desire for humans, that we respect those who have it, and we wish to obtain it for ourselves. He gives examples to back his reasoning, mostly related to our appreciation of the senses. He then details the 'hierarchy of knowing', to which he explains how animals, and then rational animals come to experience 'knowing'. Some examples are sensation, memory, imagination, prudence, teachability, experience,art and science. He then defines art, experience, and science, and details their hierarchy. 
 
   1. Wisdom: the causes of things:
 	- Explains why science is dignified (that it is naturally desired)
