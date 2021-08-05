@@ -6,7 +6,7 @@ category: philosophy
 ---
 These are my notes on the "Commentary on Aristotle's Metaphysics" by St.Thomas Aquinas. The publisher is Dumb Ox Books, and the translator is John P Rowan.
 
-Lesson 4 -
+Lesson 4 
  This section introduces the famous four causes that Aristotle wants to prove all things come from. He then begins to break down views of previous philosophers in relation to these causes. He focuses on those who only believed in the material cause, and details those who believed in a singular substance, and those who believed in multiple or infinite sources of cause.  
 
 What is science?
