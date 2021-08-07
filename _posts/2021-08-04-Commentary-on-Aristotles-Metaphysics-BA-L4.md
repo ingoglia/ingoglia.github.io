@@ -12,23 +12,23 @@ Lesson 4
 What is science?
 
 What do other philosophers say about the causes of things?
-	- Giving opinions and explaining weaknesses
-	  - 4 causes:
-	  	1. Formal - the form of a thing, why is it so?
-		2. Material
-		3. Efficient - The source of motion
-		4. Final Cause - The goal of a starting point, the going towards an end
-	  - The previous philosophers provide a preamble to Aristotle's work
-	  - Philosophers who omitted the first cause:
-	    b1) Evident things are principles
-			-Material cause is mostly the only cause:
-			 1. what something is composed of is a principle
-			 2. the generation of a thing requires its matter
-			 3. the dissolution of things, matter is last in the dissolution
-			 4. the matter remains despite the accidental coming and going of quantities
+  - Giving opinions and explaining weaknesses
+	- 4 causes:
+	  1. Formal - the form of a thing, why is it so?
+	  2. Material
+	  3. Efficient - The source of motion
+	  4. Final Cause - The goal of a starting point, the going towards an end
+	    - The previous philosophers provide a preamble to Aristotle's work
+	    - Philosophers who omitted the first cause:
+	      b1) Evident things are principles
+			- Material cause is mostly the only cause:
+			  1. what something is composed of is a principle
+			  2. the generation of a thing requires its matter
+			  3. the dissolution of things, matter is last in the dissolution
+			  4. the matter remains despite the accidental coming and going of quantities
 			- Therefore mather is the element and principle of all beings. Nothing is generated or corrupted in an absolute sense, only a qualified one.
 			- All material causes, however, they would differ in terms of how many types of matter.
-		b2) Devised extrinsic principles
+		  b2) Devised extrinsic principles
 			- philosophers believing in one cause
 			  - Thales - all is water
 			  	- The seven wise men - Thales, Pittacus, Solon, Chilo, Periander, Cleobulus, Bias
