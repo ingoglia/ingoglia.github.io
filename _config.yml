@@ -11,10 +11,10 @@ baseurl: "/"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Dominique
+username: Dominique Ingoglia
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Cyber Security Professional
+typing_text: Cyber Security Analyst
 # email: Your E-Mail address for the email button.
 email: ingoglia@protonmail.com
 # For every social button you want to display, set your username or userid
@@ -32,7 +32,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I am a working professional in information technology with an emphasis on security. I am in the process of transitioning into a security role. I also have many interests outside of work, such as Buddhism, philosophy, and yoga. I enjoy meeting new people and I am looking forward to broadening my network and connecting with like-minded people.
+about_me_description: I am a cybersecurity analyst with an emphasis in industrial control systems. I love what I do, and I continue to broaden my understanding by taking various courses and teaching myself engineering in my free time. I also have many interests outside of work, such as Buddhism, philosophy, and playing with circuits and ham radios. 
 
 # SKILLS SECTION
 # show_skills_card:
@@ -51,7 +51,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://drive.google.com/file/d/1ZLFPiM1RBDOpoMmU8FvPi9pbtemTF7Sz/view?usp=sharing
+cv_download_link: false
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -79,7 +79,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Please feel free to contact me. I am currently seeking a position in cybersecuity and would love to hear from you.
+contact_description: false 
 
 # GITHUB-METADATA
 # Set this to your forked repository
@@ -114,7 +114,7 @@ google-analytics:
 pagination:
   enabled: true
   per-page: 5
-  permalink: '/page/:num/'
+  permalink: '/page:num/'
 ### END OF VALUES YOU SHOULD CHANGE ###
 
 plugins:
